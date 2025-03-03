@@ -14,7 +14,7 @@
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/geoquake-alerts.git
+git clone https://github.com/Izayarara/LocalizedGeoAlerts.git
 cd geoquake-alerts
 2️⃣ Install Dependencies
 Ensure you have Python installed, then run:
@@ -64,23 +64,3 @@ Edit
 await asyncio.sleep(600)  # 600 seconds = 10 minutes
 📜 License
 This project is open-source under the MIT License.
-
-📬 Contact & Support
-Have questions or want to contribute? Reach out:
-
-🐦 Twitter: @YourTwitterHandle
-🤖 Telegram: Your Telegram Bot Link
-Enjoy real-time earthquake alerts! 🌍⚠️
-
-yaml
-Copy
-Edit
-
----
-
-🔥 **Next Steps:**  
-- Replace `"yourusername"` with your actual GitHub username.  
-- Add your **Twitter/Telegram links** (or remove if not needed).  
-- Copy & paste this into your `README.md`.  
-
-Want help tweaking it further? 🚀
